@@ -7,3 +7,6 @@
 
 * Install URI.js 1.12.0
 `mvn install:install-file -Dfile=urijs-1.12.0.jar -DgroupId=org.webjars -DartifactId=urijs -Dversion=1.12.0 -Dpackaging=jar`
+
+* Enjoy boobs
+![alt tag](https://raw.github.com/devdetonator/webjars-install/master/logo.jpg)
